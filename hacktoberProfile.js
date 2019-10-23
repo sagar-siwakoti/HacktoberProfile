@@ -4,6 +4,11 @@ var profiles = [
     place: "Bhubaneswar, India",
     github: "srinibasbiswal",
   },
+   {
+    name: "Sagar Siwakoti",
+    place: "Kathmandu, Nepal",
+    github: "sagar-siwakoti",
+  },
   {
     name: "Wisnu Febriadi",
     place: "Tanjungpinang, Indonesia",
